@@ -13,5 +13,5 @@ var set2  = Set(List2)
 var set3 = Set(List3)
 
 var union = set1.union(set2).union(set3).sorted()
-print("Combined list:")
+print("Combined list:123")
 print(union)
